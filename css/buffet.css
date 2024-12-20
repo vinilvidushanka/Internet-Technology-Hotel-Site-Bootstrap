@@ -1,0 +1,173 @@
+.navbar-brand{
+    font-family: "Gabarito", sans-serif;
+    color: #B17457;
+    font-weight: 400;
+}
+.nav-item{
+    font-family: "Gabarito", sans-serif;
+    color: #000000;
+}
+.nav-underline .nav-link{
+    color: #B17457;
+}
+.form-control{
+    color: #000000;
+    font-family: "Gabarito", sans-serif;
+    
+}
+.btn-outline-secondary{
+    outline-color: #B17457;
+    font-family: "Gabarito", sans-serif;
+    color: #B17457;
+}
+.btn-outline-secondary:hover{
+    background-color:#B17457 ;
+    outline-color: #B17457;
+}
+
+.dining-desc-container{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px  auto;
+    text-align: center;
+    padding: 20px;
+}
+.dining-desc-container  .card-body .card-title{
+    font-family: "Poiret One", sans-serif;
+    font-size: 3rem;
+    color: #B17457;
+    margin-left: 0;
+}
+.card-subtitle{
+    padding: 20px;
+    font-family: "Poiret One", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #B17457;
+}
+.dining-desc-container .card-text{
+    font-family: "Poiret One", sans-serif;
+    font-weight: 300;
+    color: #B17457;
+}
+.card-title{
+    font-size: 2rem;
+    font-family: "Gabarito", sans-serif;
+}
+
+.g-4{
+    margin-top: 50px;
+}
+.col{
+    padding: 20px;
+}
+.col .card img{
+    height: 300px;
+}
+
+.col .card .card-body .card-title{
+    color: #B17457;
+}
+.col .card .card-body .card-text{
+    color: #B17457;
+    font-family: "Gabarito", sans-serif;
+}
+.col .card .card-body .card-text2{
+    font-size: 1rem;
+    font-weight: 500;
+    color: #B17457;
+    font-family: "Poiret One", sans-serif;
+}
+
+.card-title{
+    font-size: 2rem;
+    font-family: "Gabarito", sans-serif;
+}
+.g-4{
+    padding: 20px;
+}
+.g-4 .col .card .card-body .card-title{
+    color: #B17457;
+}
+.g-4 .col .card .card-body .card-text{
+    color: #B17457;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 500;
+}
+
+.offers .card-title{
+    margin: 5vh auto;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 1.25rem;
+    text-align: center;
+}
+
+.offers .card-text{
+    font-family: "Gabarito", sans-serif;
+    color: #B17457;
+    font-size: 2.5rem;
+    text-align: center;
+}
+.g-4{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+
+footer{
+    margin-top: 50px;
+    position: relative;
+    width: 100%;
+    background: #B17457;
+    min-height: 100px;
+    padding: 20px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  footer .social-icon,
+  footer .menu{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+    flex-wrap: wrap;
+  }
+  footer .social-icon li,
+  footer .menu li{
+    list-style: none;
+  }
+  footer .social-icon li a{
+    font-size: 1.5rem;
+    color: #ffffff;
+    margin: 0 10px;
+    display: inline-block;
+    transition: 0.5s;
+  }
+  footer .social-icon li a:hover{
+    transform: translateY(-10px);
+  }
+  footer .menu li a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1rem;
+    color: #04011C;
+    margin: 0 10px;
+    display: inline-block;
+    transition: 0.5s;
+    text-decoration: none;
+    opacity: 0.5;
+  }
+  footer .menu li a:hover{
+    opacity: 1;
+  }
+  footer p{
+    font-size: 0.8rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
